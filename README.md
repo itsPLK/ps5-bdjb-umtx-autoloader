@@ -1,7 +1,12 @@
+<h1 align="center">This repository is archived.<br>
+Future development moved to a new project:</h1>
+<h2 align="center"><a href="https://github.com/itsPLK/ps5-bdjb-autoloader">itsPLK/ps5-bdjb-autoloader</a></h2>
+<br><br>
+
 <p align="center">
  <img src="./ps5loader.png" width="128" />
 </p>
-<h1 align="center">PS5 BD-JB Autoloader</h1>
+<h1 align="center">PS5 BD-JB Autoloader v0.1.0</h1>
 <h3 align="center">Fork of <a href="https://github.com/hammer-83/ps5-jar-loader">hammer-83's ps5-jar-loader</a></h3>
 &nbsp;
 <p align="center">Automatically loads your .elf, .bin and .jar payloads.<br>Supports PS5 firmwares up to 7.61.</p>
